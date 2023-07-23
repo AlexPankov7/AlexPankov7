@@ -1,8 +1,8 @@
 [![Header](https://github.com/AlexPankov7/AlexPankov7/blob/main/assets/Untitled.png)](https://www.linkedin.com/in/alex-pankov/)
 
-I'm Technical Support Engineer and beginner QA Engineer
+I'm Technical Support Engineer and QA Engineer
 
-Languages and Tools
+### Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=47C5FB)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=097CDB)
@@ -12,7 +12,7 @@ Languages and Tools
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=E5D3FF)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=6296CC)
 
-My contacts
+### My contacts
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=LinkedIn&logoColor=E9D54D)](https://www.linkedin.com/in/alex-pankov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=E5D3FF)](https://t.me/alekseiP7)
