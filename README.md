@@ -12,7 +12,7 @@ Languages and Tools
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=E5D3FF)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=6296CC)
 
-### Follow Me
+My contacts
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=LinkedIn&logoColor=E9D54D)](https://www.linkedin.com/in/alex-pankov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=E5D3FF)](https://t.me/alekseiP7)
