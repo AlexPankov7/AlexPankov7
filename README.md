@@ -1,6 +1,6 @@
 [![Header](https://github.com/AlexPankov7/AlexPankov7/blob/main/assets/Untitled.png)](https://www.linkedin.com/in/alex-pankov/)
 
-I'm Technical Support Engineer and QA Engineer
+## I'm Software QA Engineer & Technical Support Engineer 
 
 ### Languages and Tools
 
